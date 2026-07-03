@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
+</p>
 **oceanwhisperx/oceanwhisperx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
