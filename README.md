@@ -1,4 +1,4 @@
                      ↻ ◁ II ▷ ↺
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b29jdDdtMG9jYzZiYXE5cHo5ZjYyYzdhd3E1cTNxbndwYzI3dXU5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fnglNFjBGiyAFtm6ke/giphy.gif" width="700">
+  <img src="hhttps://i.ibb.co/x96jy88/49893c444a7aa081c6d272ac8be0a070.gif" width="700">
 
